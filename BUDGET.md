@@ -1,5 +1,8 @@
 # Budget
 
+Below find a snapshot of the budget **UNCONFIRMED** as of 2018-01-29.
+For an editable budget see: https://docs.google.com/spreadsheets/d/108sbmdcf9ekxYRL3mpa1QBtmjhA5KwoO5w_XWtQgDS4/edit# 
+
 ## Projected Expenses (Conference) -- UNCONFIRMED 2018-01-29
 
 | Category | Estimate |
