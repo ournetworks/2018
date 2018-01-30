@@ -1,6 +1,6 @@
 # Budget
 
-## Projected Expenses (Conference)
+## Projected Expenses (Conference) -- UNCONFIRMED 2018-01-29
 
 | Category | Estimate |
 |----------|----------|
@@ -19,13 +19,13 @@
 | Swag (Stickers, T-Shirts, Buttons) | $600 |
 | Logo design | $100 |
 
-## Projected Expenses (Sprint)
+## Projected Expenses (Sprint) -- UNCONFIRMED 2018-01-29
 
 | Category | Estimate |
 |----------|----------|
 |   |   |
 
-## Projected Inflow
+## Projected Inflow -- UNCONFIRMED 2018-01-29
 
 | Category | Estimate |
 |----------|----------|
