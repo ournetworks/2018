@@ -4,6 +4,10 @@ This repository has organizing materials for the upcoming State of Our Networks 
 
 Save the Date… State of Our Networks 2018 will be **July 13–18, 2018**, for any questions email orga@ournetworks.ca!
 
+**July 13** - Kickoff, Location TBA  
+**July 14–15** - Conference, Location TBA  
+**July 16–18** - Sprints, Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George Street
+
 ## Planning
 
 Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2018/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly 30 minute planning call using [appear.in/ournetworks](https://appear.in/ournetworks) on **Saturdays 11:30-12:00 ET**:
