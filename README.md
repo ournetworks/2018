@@ -12,7 +12,7 @@ Save the Date… State of Our Networks 2018 will be **July 13–18, 2018**, for 
 
 Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2018/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly 30 minute planning call using [appear.in/ournetworks](https://appear.in/ournetworks) on **Saturdays 11:30-12:00 ET**:
 - 10 Feb
-- 24 Feb
+- 24 Feb - [call notes](https://hackmd.io/s/HkXytz1dG)
 - 10 Mar
 - 24 Mar
 - 7 Apr
