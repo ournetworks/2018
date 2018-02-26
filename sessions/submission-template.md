@@ -19,7 +19,7 @@ Additional considerations: [e.g., max number of participants, access]
 ## Presenter(s)
 
 Name: Your Name  
-Email: name@youremail.com  
+Email: name@example.com  
 Url(s): [yourwebsite.com](url to website), [yourotherwebsite.com](url to another website)  
 Twitter: [@you](url to twitter account)  
 GitHub: [you](url to GitHub account)  
