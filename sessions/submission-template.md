@@ -2,11 +2,11 @@
 
 ## Description
 
-[Aim for a description that is 1-2 paragraphs (75 - 150 words)]
+[Description that is 1-2 paragraphs (75 - 150 words)]
 
-Type: [talk | panel | workshop | demos | performance | other (describe!)]
-Length: [30 minutes | 1 hour | 2 hour | half-day]
-Additional considerations: [e.g., max number of participants, access]
+Type: [talk | panel | workshop | demos | performance | other (describe!)]  
+Length: [30 minutes | 1 hour | 2 hour | half-day]  
+Additional considerations: [e.g., max number of participants, access]  
 
 ## Session Objective
 
@@ -20,13 +20,16 @@ Additional considerations: [e.g., max number of participants, access]
 
 Name: Your Name  
 Email: name@youremail.com  
-Url(s): [yourwebsite.com](url to website), [yourotherwebsite.com](url to another website)
+Url(s): [yourwebsite.com](url to website), [yourotherwebsite.com](url to another website)  
 Twitter: [@you](url to twitter account)  
 GitHub: [you](url to GitHub account)  
 
+Interested in attending the sprint July 16-18: [Y|N]  
+Interested in a community billet: [host|billet|N]
+
 ## Presenter Bio
 
-[Aim for a bio that is under 1 paragraph (50 - 75 words)]
+[Bio that is under 1 paragraph (50 - 75 words)]
 
 
-[If multiple presenters please provide info and bio for all]
+[If multiple presenters, please provide info and bio for all]
