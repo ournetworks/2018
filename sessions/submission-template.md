@@ -4,8 +4,8 @@
 
 [Description that is 1-2 paragraphs (75 - 150 words)]
 
-Type: [talk | panel | workshop | demos | performance | other (describe!)]  
-Length: [30 minutes | 1 hour | 2 hour | half-day]  
+Type: [talk | panel | workshop | lightening talk | demos | performance | other (describe!)]  
+Length: [<30 minutes | 1 hour | 2 hour | half-day | N/A]  
 Additional considerations: [e.g., max number of participants, access]  
 
 ## Session Objective
