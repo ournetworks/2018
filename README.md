@@ -1,16 +1,16 @@
 # State of Our Networks 2018
 
-This repository has organizing materials for the upcoming State of Our Networks 2018.
+This repository has organizing materials for the upcoming State of Our Networks on **July 13–18, 2018**, for any questions email orga@ournetworks.ca!
 
-Save the Date… State of Our Networks 2018 will be **July 13–18, 2018**, for any questions email orga@ournetworks.ca!
+ Looking to submit a session to Our Networks 2018 📡? |
+|---|
+| Great! <br /> 1. Review our [Call for Participation (CFP)](http://ournetworks.ca/) <br /> 2. Submit an issue in our [**2018-submissions** repository](https://github.com/ournetworks/2018-submissions/issues/new) <br /> 🗓 You have until April 30!  |
 
 **July 13** - Kickoff, Location TBA  
 **July 14–15** - Conference, Location TBA  
 **July 16–18** - Sprints, Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George Street
 
-| Looking to submit a session to Our Networks 2018 📡? |
-|---|
-| Great! <br /> 1. Review our [Call for Participation (CFP)](http://ournetworks.ca/) <br /> 2. Submit an issue in our [**2018-submissions** repository](https://github.com/ournetworks/2018-submissions/issues/new) <br /> 🗓 You have until April 30!  |
+Our hashtags are #OurNetworks or #OurNetworks2018 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :loudspeaker: `:loudspeaker:` and 🛰 emojis 
 
 ## Planning
 
