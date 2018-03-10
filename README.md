@@ -18,8 +18,8 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 10 Feb
 - 24 Feb - [call notes](https://hackmd.io/s/HkXytz1dG)
 - 10 Mar - [call notes](https://hackmd.io/s/H1J89FZtz)
-- 24 Mar
-- 7 Apr
+- 24 Mar - [call notes](https://hackmd.io/s/BJKCrjbKf)
+- 7 Apr - [call notes](https://hackmd.io/s/HygHPoZKz)
 - 28 Apr
 - 5 May
 - 26 May
