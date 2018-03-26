@@ -31,9 +31,10 @@ Our main organizing email is orga@ournetworks.ca. Organizers are:
 
 - dcwalk (gh: [@dcwalk](https://github.com/dcwalk))
 - garrying (gh: [@garrying](https://github.com/garrying))
+- patcon (gh: [@patcon](https://github.com/patcon))
+- ana0 (kickoff expert) (gh: [@ana0](https://github.com/ana0))
 - benhylau (at large) (gh: [@benhylau](https://github.com/benhylau))
 - jkms (at large) (gh: [@jkms](https://github.com/jkms))
-- patcon (gh: [@patcon](https://github.com/patcon))
 
 ## Materials License
 
