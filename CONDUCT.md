@@ -1,7 +1,5 @@
 # Code of Conduct
 
-## Pledge
-
 Our Networks is dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or technical skill level.
 
 In order to reduce obstacles to participation, we have adopted an explicitly-documented code to communicate our expectations for conduct at the event.
