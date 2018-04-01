@@ -37,7 +37,7 @@ Our main organizing email is orga@ournetworks.ca. Organizers are:
 
 ## Code of Conduct
 
-This event has a [Code of Conduct](./CONDUCT) that all organizers and attendees have been asked to follow in order to create a welcoming space to aim to do our best work together.
+This event has a [Code of Conduct](./CONDUCT.md) that all organizers and attendees have been asked to follow in order to create a welcoming space to aim to do our best work together.
 
 ## Statement on Acknowledgement of Traditional Land
 
