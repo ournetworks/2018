@@ -51,7 +51,7 @@ _These are adapted from the [Toronto Mesh Code of Conduct](https://tomesh.net/co
 
 ## Guidelines
 
-Our Networks adopted the [Toronto Mesh Code of Conduct](https://tomesh.net/code-of-conduct/) for our January 14, 2017 event, and consensed to actively use a conference-specific code of conduct on [XXXX, 2018](https://github.com/ournetworks/2018/pull/33). The Code of Conduct language is in our [2018 organizing](./CONDUCT.md) repository and on our website at [ournetworks.ca/code-of-conduct/](https://ournetworks.ca/code-of-conduct).
+Our Networks adopted the [Toronto Mesh Code of Conduct](https://tomesh.net/code-of-conduct/) for our January 14, 2017 event, and consensed to actively use a conference-specific code of conduct on [March 31, 2018](https://github.com/ournetworks/2018/pull/33). The Code of Conduct language is in our [2018 organizing](./CONDUCT.md) repository and on our website at [ournetworks.ca/code-of-conduct/](https://ournetworks.ca/code-of-conduct).
 
 ### Enforcement
 
