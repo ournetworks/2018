@@ -10,7 +10,7 @@ This repository has organizing materials for the upcoming State of Our Networks 
 **July 14–15** - Conference, Location TBA  
 **July 16–18** - Sprints, Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George Street
 
-Our hashtags are #OurNetworks or #OurNetworks2018 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :loudspeaker: `:loudspeaker:` and 🛰 emojis 
+Our hashtags are #OurNetworks or #OurNetworks2018 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :loudspeaker: `:loudspeaker:` and :artificial_satellite: `:artificial_satellite:` emojis.
 
 ## Planning
 
