@@ -14,12 +14,13 @@ Our hashtags are #OurNetworks or #OurNetworks2018 (i.e., on [Twitter](https://tw
 
 ## Planning
 
-Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2018/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly 30 minute planning call using [appear.in/ournetworks](https://appear.in/ournetworks) on **Saturdays 11:30-12:00 ET**:
+Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2018/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a typically bi-weekly, 30 minute planning call using [appear.in/ournetworks](https://appear.in/ournetworks) on **Saturdays 11:30-12:00 ET**:
 - 10 Feb
 - 24 Feb - [call notes](https://hackmd.io/s/HkXytz1dG)
 - 10 Mar - [call notes](https://hackmd.io/s/H1J89FZtz)
 - 24 Mar - [call notes](https://hackmd.io/s/BJKCrjbKf)
 - 7 Apr - [call notes](https://hackmd.io/s/HygHPoZKz)
+- 14 Apr **1 hour starting at 11:00 ET**
 - 28 Apr
 - 5 May
 - 26 May
