@@ -7,7 +7,7 @@ This repository has organizing materials for the upcoming State of Our Networks 
 | Great! <br /> 1. Review our [Call for Participation (CFP)](http://ournetworks.ca/) <br /> 2. Submit an issue in our [**2018-submissions** repository](https://github.com/ournetworks/2018-submissions/issues/new) <br /> 🗓 You have until April 30!  |
 
 **July 13** - Kickoff, Location TBA  
-**July 14–15** - Conference, Location TBA  
+**July 14–15** - Conference, Mozilla Toronto, 366 Adelaide Street West 
 **July 16–18** - Sprints, Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George Street
 
 Our hashtags are #OurNetworks or #OurNetworks2018 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :loudspeaker: `:loudspeaker:` and :artificial_satellite: `:artificial_satellite:` emojis.
@@ -35,7 +35,6 @@ Our main organizing email is orga@ournetworks.ca. Organizers are:
 - patcon (gh: [@patcon](https://github.com/patcon))
 - ana0 (kickoff expert) (gh: [@ana0](https://github.com/ana0))
 - benhylau (at large) (gh: [@benhylau](https://github.com/benhylau))
-- jkms (at large) (gh: [@jkms](https://github.com/jkms))
 
 ## Code of Conduct
 
