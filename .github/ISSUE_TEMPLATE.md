@@ -4,4 +4,4 @@ Great!
 1. Review our Call for Participation (CFP): http://ournetworks.ca/
 2. Submit an issue in our **2018-submissions** repository: https://github.com/ournetworks/2018-submissions/issues/new
 
-🗓 You have until April 30!
+🗓 You have until May 07, 2018!
