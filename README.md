@@ -4,9 +4,9 @@ This repository has organizing materials for the upcoming State of Our Networks 
 
  Looking to submit a session to Our Networks 2018 📡? |
 |---|
-| Great! <br /> 1. Review our [Call for Participation (CFP)](http://ournetworks.ca/) <br /> 2. Submit an issue in our [**2018-submissions** repository](https://github.com/ournetworks/2018-submissions/issues/new) <br /> 🗓 You have until April 30!  |
+| Great! <br /> 1. Review our [Call for Participation (CFP)](http://ournetworks.ca/) <br /> 2. Submit an issue in our [**2018-submissions** repository](https://github.com/ournetworks/2018-submissions/issues/new) <br /> 🗓 You have until May 7!  |
 
-**July 13** - Kickoff, Location TBA  
+**July 13** - Kickoff Yami-ichi, Location TBA  
 **July 14–15** - Conference, [Mozilla Toronto Community Space](https://wiki.mozilla.org/People:MozSpaces_Guidelines:Toronto), Suite 500, 366 Adelaide Street West  
 **July 16–18** - Sprints, Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George Street
 
@@ -22,7 +22,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 7 Apr - [call notes](https://hackmd.io/s/HygHPoZKz)
 - 14 Apr **1 hour starting at 11:00 ET**
 - 28 Apr - [call notes](https://hackmd.io/s/ryBqWmO2M)
-- 5 May - [call notes](https://hackmd.io/s/rJbX7munz)
+- 5 May - **Co-working starting at 11:00 ET** [call notes](https://hackmd.io/s/rJbX7munz)
 - 26 May
 - 23 Jun 
 
