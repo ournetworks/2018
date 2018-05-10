@@ -31,9 +31,9 @@ Canada
 
 ACCOUNT INFORMATION
 
-Account No.: [OUR_NETWORKS_ACCOUNT_NO]
-Transit No.: 00646
-Institution No.: 842
+Account No.: [OUR_NETWORKS_ACCOUNT_NO]  
+Transit No.: 00646  
+Institution No.: 842  
 
 EMAIL
 
