@@ -8,8 +8,8 @@ Invoices are created using: https://invoice-generator.com
 
 ## From
 
-c/o [OUR_NETWORKS_CONTACT_NAME]
-[OUR_NETWORKS_CONTACT_ADDRESS]
+c/o [OUR_NETWORKS_CONTACT_NAME]  
+[OUR_NETWORKS_CONTACT_ADDRESS]  
 
 ## Item
 
@@ -24,10 +24,10 @@ PAYMENT OPTIONS
 
 FINANCIAL INSTITUTION
 
-Alterna Savings
-800 Bay Street
-Toronto, ON M5S 3A9
-Canada
+Alterna Savings  
+800 Bay Street  
+Toronto, ON M5S 3A9  
+Canada  
 
 ACCOUNT INFORMATION
 
