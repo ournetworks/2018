@@ -4,7 +4,7 @@ Invoices are created using: https://invoice-generator.com
 
 ## Logo
 
-![SoON](soon.png?raw=true)
+[Attach SoON logo to invoice]
 
 ## From
 
