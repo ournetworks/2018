@@ -23,7 +23,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 28 Apr - [call notes](https://hackmd.io/s/ryBqWmO2M)
 - 5 May - **Co-working starting at 11:00 ET** [call notes](https://hackmd.io/s/rJbX7munz)
 - 13 May - **Co-working starting at 16:00 ET** [call notes](https://hackmd.io/s/r14h4mICf)
-- 26 May
+- 26 May - [call notes](https://hackmd.io/s/B1xd3JPy7)
 - 23 Jun 
 
 ## Organizers
