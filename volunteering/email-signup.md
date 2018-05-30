@@ -1,8 +1,7 @@
 Title: Volunteering at Our Networks ⚑ 
 
 Thank you for your interest in volunteering with Our Networks!
-Your help will make sure the event runs smoothly. We also want to make sure that we the organizers will support you during the event.
-
+Your help will make sure the event runs smoothly. We also want to make sure that we the organizers support you during the event so please let us know any questions or concerns.
 ⚐ EXPECTATIONS
 
 Before agreeing, we ask that you read the following and ensure that as a volunteer you are able to commit to:
