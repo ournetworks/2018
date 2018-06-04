@@ -2,7 +2,7 @@ Title: Our Networks Program and Registering
 
 Hello presenters,
 
-We've got more details on the program, registration, and also sharing our call for vendors at the kickoff yami-ichi party!
+We've got more details on the program, registration, and also sharing our call for vendors at the kickoff Internet Yami-Ichi party!
 If you indicated you are interested in a community billet we'll follow up in the next couple weeks as we've reached out to Toronto folks now.
 
 ⚐ PROGRAM
@@ -29,14 +29,14 @@ https://ournetworks.ca/conference/#registration
 Click the "Enter a Password or Discount Code" prompt,  
 enter: "[presenter code]"
 
-⚐ VEND AT THE KICKOFF YAMI-ICHI
+⚐ VEND AT THE KICKOFF INTERNET YAMI-ICHI
 
-Calling all vendors of internet-ish things— come gather and exchange goods from the backstreets of the internet on Friday July 13, 2018 afternoon into evening. We are seeking vendors for a joint Bit Bazaar × Yami-Ichi to kick off Our Networks in collaboration with our friends from Bit Bazaar, Toronto’s 🎮 video game flea market, 📚 pop up zine shop, and 🌮 food celebration.
+Calling all vendors of internet-ish things—come gather and exchange goods from the backstreets of the internet on Friday July 13, 2018 afternoon into evening. We are seeking vendors for a joint Bit Bazaar × Internet Yami-Ichi to kick off Our Networks in collaboration with our friends from Bit Bazaar, Toronto’s 🎮 video game flea market, 📚 pop up zine shop, and 🌮 food celebration.
 
 Applications are open until June 21 and exhibitors will be selected and notified on a rolling basis.  
 
 https://ournetworks.ca/yami-ichi/#vend
 
-⚑ More soon!
+⚑ MORE SOON!
 
-We're always here to answer any questions, so don't hesitate to email us. 
+In the meantime, we're here to answer any questions. Don't hesitate to email us. 
