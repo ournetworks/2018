@@ -1,4 +1,4 @@
-Title: Our Networks Program and Registering  
+Title: Our Networks Program and Registration  
 
 Hello presenters,
 
