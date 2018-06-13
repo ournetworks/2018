@@ -4,7 +4,7 @@ Title: Our Networks: Full program announced + register now
 
 We are excited to announce the program for Our Networks! Sessions include:
 
-▶︎ Talks about changing the internet into one we want through migrating to peer-to-peer implementations, building distributed data stewardship, and investigating the tactics of existing protocols
+▶︎ Talks about changing the internet into one we want through migrating to peer-to-peer implementations, building distributed data stewardship, and investigating the tactics of existing protocols  
 ▷ Discussions on transitioning to decentralized projects and imagining what alternatives we want  
 ▶︎ Hands-on workshops for strategizing outreach and organizing at the local scale
 
