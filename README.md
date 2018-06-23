@@ -2,10 +2,10 @@
 
 This repository has organizing materials for the upcoming State of Our Networks on **July 13–18, 2018**, for any questions email orga@ournetworks.ca!
 
- Looking to submit a session to Our Networks 📡? [Submissions](https://github.com/ournetworks/2018-submissions/issues) have closed for 2018, we thank everyone for their interest! Program will be published late May 🗓
+ Looking to submit a session to Our Networks 📡? [Submissions](https://github.com/ournetworks/2018-submissions/issues) have closed for 2018, we thank everyone for their interest! Our [program](https://ournetworks.ca/conference/program/) is published and we hope you join us! 🗓
  
 
-**July 13** - Kickoff Yami-ichi, Location TBA  
+**July 13** - Kickoff Yami-ichi, [Toronto Media Arts Centre](https://www.tomediaarts.org/), 32 Lisgar Street  
 **July 14–15** - Conference, [Mozilla Toronto Community Space](https://wiki.mozilla.org/People:MozSpaces_Guidelines:Toronto), Suite 500, 366 Adelaide Street West  
 **July 16–18** - Sprints, Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George Street
 
