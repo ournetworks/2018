@@ -1,6 +1,6 @@
 Title: Five days until Our Networks and tickets are going fast ✨⚑
 
-Hi folks,,
+Hi folks,
 
 We are less than one week away from State of Our Networks 2018 and we expect to sell out, so if you've been waiting to purchase tickets the time is now!
 
@@ -37,7 +37,5 @@ https://ournetworks.ca/yami-ichi/
 
 Vendor List:  
 https://bitbazaar.world/
-
-
 
 ⚑ See you in a week
