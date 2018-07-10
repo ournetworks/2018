@@ -4,7 +4,7 @@ import datetime
 import obspython as obs
 import yaml
 
-refresh_interval = 5000 # In milla seconds
+refresh_interval = 15000 # In milla seconds
 file_path = ""
 
 def script_description():
