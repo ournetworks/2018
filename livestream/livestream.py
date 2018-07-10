@@ -4,7 +4,7 @@ import datetime
 import obspython as obs
 import yaml
 
-refresh_interval = 15000 # In seconds
+refresh_interval = 15000 # In milla seconds
 
 def script_description():
   return ('Conference programming read from a YAML file with schema:\n'
@@ -23,7 +23,8 @@ def script_update(settings):
   global refresh_interval
 
   obs.timer_remove(refresh_all)
-  if file_path != '':
+  file_path = obs.obs_data_get_string(settings, "file_path")
+  if file_path is not None:
     obs.timer_add(refresh_all, refresh_interval)
 
 def refresh_all():
