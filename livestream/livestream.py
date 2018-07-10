@@ -31,8 +31,6 @@ def script_update(settings):
 
 def refresh_all():
   global file_path
-  print("Starting")
-  print(file_path)
   
   if file_path is not None:
     with open(file_path, 'r') as current:
