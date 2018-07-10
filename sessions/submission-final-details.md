@@ -23,7 +23,7 @@ Finally, please double check your session timing (https://ournetworks.ca/confere
 
 ⚐ HONORARIA
 
-We are able to offer a modest honorarium (at a minimum $50 CAD) to presenters which we will distribute after the event. When you register you will be provided with a form to indicate your payment preference (cash, paypal, crypto) and address.
+We are able to offer a modest honorarium (at a minimum $50 CAD) to presenters which we will distribute after the event. When you register you will be provided with a form to indicate your payment preference (cash, paypal, crypto: DAI or ETH) and address.
 
 
 
