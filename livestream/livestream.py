@@ -36,7 +36,7 @@ def script_update(settings):
   obs.timer_remove(refresh_all)
 
   # Start new refresh timer
-  file_path = obs.obs_data_get_string('file_path')
+  file_path = obs.obs_data_get_string(settings, 'file_path')
   if file_path is not None:
     obs.timer_add(refresh_all, refresh_interval)
 
