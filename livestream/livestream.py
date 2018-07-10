@@ -4,7 +4,8 @@ import datetime
 import obspython as obs
 import yaml
 
-refresh_interval = 15000 # In seconds
+refresh_interval = 15000 # In milli seconds
+file_path = ""
 
 def script_description():
   return ('Conference programming read from a YAML file with schema:\n'
@@ -21,13 +22,16 @@ def script_properties():
 
 def script_update(settings):
   global refresh_interval
+  global file_path
 
   obs.timer_remove(refresh_all)
-  if file_path != '':
+  file_path = obs.obs_data_get_string(settings, "file_path")
+  if file_path is not None:
     obs.timer_add(refresh_all, refresh_interval)
 
 def refresh_all():
-  file_path = obs.obs_get_source_by_name('file_path')
+  global file_path
+  
   if file_path is not None:
     with open(file_path, 'r') as current:
       try:
@@ -40,10 +44,12 @@ def refresh_all():
         refresh_item('next_time', '{:%b %d %I:%M %p EST}'.format(datetime.datetime.strptime(session['next_time'], '%Y-%m-%d %H:%M')))
       except yaml.YAMLError as e:
         print(e)
-    obs.obs_source_release(file_path)
 
 def refresh_item(key, value):
   settings = obs.obs_data_create()
-  obs.obs_data_set_string(settings, key, value)
+  obs.obs_data_set_string(settings, "text", value)  
+  source = obs.obs_get_source_by_name(key)
   obs.obs_source_update(source, settings)
   obs.obs_data_release(settings)
+  obs.obs_source_release(source)
+  
