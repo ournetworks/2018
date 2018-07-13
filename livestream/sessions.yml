@@ -1,4 +1,10 @@
-- current_title: "Opening"
+- current_title: ""
+  current_presenter: ""
+  next_title: "Opening remarks"
+  next_presenter: "Our Networks"
+  next_time: 2018-07-14 09:30
+
+- current_title: "Opening remarks"
   current_presenter: "Our Networks"
   next_title: "Wireless Toronto"
   next_presenter: "Gabe Sawhney"
