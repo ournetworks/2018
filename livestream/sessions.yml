@@ -1,0 +1,107 @@
+- current_title: ""
+  current_presenter: ""
+  next_title: "Opening remarks"
+  next_presenter: "Our Networks"
+  next_time: 2018-07-14 09:30
+
+- current_title: "Opening remarks"
+  current_presenter: "Our Networks"
+  next_title: "Wireless Toronto"
+  next_presenter: "Gabe Sawhney"
+  next_time: 2018-07-14 10:00
+
+- current_title: "Wireless Toronto"
+  current_presenter: "Gabe Sawhney"
+  next_title: "Our _stable_ networks"
+  next_presenter: "Grant Gallo and Jenny Ryan"
+  next_time: 2018-07-14 11:00
+
+- current_title: "Our _stable_ networks"
+  current_presenter: "Grant Gallo and Jenny Ryan"
+  next_title: "Building something together with local networks"
+  next_presenter: "Cecylia Bocovich and Lauren Lapidge"
+  next_time: 2018-07-14 11:30
+
+- current_title: "Building something together with local networks"
+  current_presenter: "Cecylia Bocovich and Lauren Lapidge"
+  next_title: "The hybrid step toward migrating to P2P: Adding P2P backend to current centralized apps"
+  next_presenter: "vmon"
+  next_time: 2018-07-14 12:00
+
+- current_title: "The hybrid step toward migrating to P2P: Adding P2P backend to current centralized apps"
+  current_presenter: "vmon"
+  next_title: "Aether: Distributing social networks without distributed consensus"
+  next_presenter: "Burak Nehbit"
+  next_time: 2018-07-14 13:00
+
+- current_title: "Aether: Distributing social networks without distributed consensus"
+  current_presenter: "Burak Nehbit"
+  next_title: "Fandom as an alternative network"
+  next_presenter: "Rea McNamara, Owen G. Parry and Maya Ben David"
+  next_time: 2018-07-14 14:30
+
+- current_title: "Fandom as an alternative network"
+  current_presenter: "Rea McNamara, Owen G. Parry and Maya Ben David"
+  next_title: "Keynote: Navigating Digital Futures"
+  next_presenter: "Nasma Ahmed"
+  next_time: 2018-07-14 18:00
+
+- current_title: "Keynote: Navigating Digital Futures"
+  current_presenter: "Nasma Ahmed"
+  next_title: "The artists network, the data-body, and the social-body"
+  next_presenter: "Jennifer Seaman Cook"
+  next_time: 2018-07-15 10:00
+
+- current_title: "The artists network, the data-body, and the social-body"
+  current_presenter: "Jennifer Seaman Cook"
+  next_title: "Holding Data Together: Decentralized patterns for stewardship \u26a1"
+  next_presenter: "Brendan O'Brien"
+  next_time: 2018-07-15 12:00
+
+- current_title: "Holding Data Together: Decentralized patterns for stewardship \u26a1"
+  current_presenter: "Brendan O'Brien"
+  next_title: "Live Streaming over IPFS \u26a1"
+  next_presenter: "Yurko"
+  next_time: 2018-07-15 12:15
+
+- current_title: "Live Streaming over IPFS \u26a1"
+  current_presenter: "Yurko"
+  next_title: "Peer-to-peer applications on a mesh network \u26a1"
+  next_presenter: "Benedict Lau"
+  next_time: 2018-07-15 12:30
+
+- current_title: "Peer-to-peer applications on a mesh network \u26a1"
+  current_presenter: "Benedict Lau"
+  next_title: "Web archiving as DIY and DIWO \u26a1"
+  next_presenter: "Emily Maemura"
+  next_time: 2018-07-15 12:45
+
+- current_title: "Web archiving as DIY and DIWO \u26a1"
+  current_presenter: "Emily Maemura"
+  next_title: "Protocol tactics"
+  next_presenter: "Lars Gierth"
+  next_time: 2018-07-15 14:30
+
+- current_title: "Protocol tactics"
+  current_presenter: "Lars Gierth"
+  next_title: "Money and mesh networks"
+  next_presenter: "Jessica Marshall and Ashoka Finley"
+  next_time: 2018-07-15 15:30
+
+- current_title: "Money and mesh networks"
+  current_presenter: "Jessica Marshall and Ashoka Finley"
+  next_title: "Althea a more distributed ISP"
+  next_presenter: "Justin Kilpatrick"
+  next_time: 2018-07-15 16:30
+
+- current_title: "Althea a more distributed ISP"
+  current_presenter: "Justin Kilpatrick"
+  next_title: "Closing"
+  next_presenter: "Our Networks"
+  next_time: 2018-07-15 17:30
+
+- current_title: "Closing"
+  current_presenter: "Our Networks"
+  next_title: "See you in 2019!"
+  next_presenter: "Our Networks"
+  next_time: 2019-01-01 00:00
