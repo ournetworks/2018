@@ -26,11 +26,15 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 26 May - [call notes](https://hackmd.io/s/B1xd3JPy7)
 - 23 Jun - [call notes](https://hackmd.io/s/B12LSJ2bX)
 
-Final co-working sessions (tentative)
+Final co-working sessions:
 - 26 Jun - **Co-working starting at 18:00 ET**
 - 3 Jul - **Co-working starting at 18:00 ET** (potential venue walkthrough)
 - 7 Jul - **Co-working starting at 16:00 ET**
 - 12 Jul - **Co-working starting at 16:00 ET** (short final prep chat/mini celebration)
+
+Post-event retrospectives:
+- 28 Jul - **Organizer retrospective** [call notes](https://hackmd.io/s/r1R9NMqNX)
+- XX Aug - **Livestream retrospective** 
 
 ## Organizers
 
