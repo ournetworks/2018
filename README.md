@@ -34,7 +34,7 @@ Final co-working sessions:
 
 Post-event retrospectives:
 - 28 Jul - **Organizer retrospective** [call notes](https://hackmd.io/s/r1R9NMqNX)
-- XX Aug - **Livestream retrospective** 
+- 8 Aug - **Livestream retrospective** [call notes](https://hackmd.io/s/BkvH7GKB7)
 
 ## Organizers
 
