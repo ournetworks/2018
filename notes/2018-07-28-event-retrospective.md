@@ -21,6 +21,10 @@
 
 - DC: voln's!
 - DC: planning cycle: 8 months makes sense
+- Garry: Using GH Projects gave good visbility on tasks initially
+- Garry: `orga` email for async group coordinating outside of group chat
+- Garry: Shared iCal as a reminder for things coming up. My life is a calendar
+- Garry: Between the swag, videos, website, tweets, we have a lot to output to help hype the next event
 
 ## What didn't?
 
@@ -46,6 +50,13 @@
 ### Organizing
 
 - Garry: dedicated design person (during swag time etc...)
+- Garry: Group chat seemed ok leading up to the weekend, but there were moments when it felt close to being hard to follow
+- Garry: Is there feedback we can take back to BPT?
+    - It seemed like we had gripes with certain aspects
+    - Do we want to continue with them?
+- Garry: Swag ordering was a little confusing to follow with regards to initial sourcing
+    - We had more interest in specific shirts over others
+    - Sifting through the shirts to find specific sizes/styles was a hassle during the event
 - DC: some thoughts on organizing structure, maybe coc review?, talk about our value in advance?
 - Ben: Perhaps next year we can plan extra people capacity that are available to take on unexpected last-minute projects (like MakerDao coordinating)
 
