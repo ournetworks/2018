@@ -27,7 +27,6 @@
 ## Confirmed Budget -- 2018-06-01
 
 Below find a snapshot of the budget **CONFIRMED** as of 2018-06-01.
-For an editable budget see: https://docs.google.com/spreadsheets/d/108sbmdcf9ekxYRL3mpa1QBtmjhA5KwoO5w_XWtQgDS4/edit#
 
 ### Budget
 
