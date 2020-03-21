@@ -1,6 +1,6 @@
 # State of Our Networks 2018
 
-This repository has organizing materials for the upcoming State of Our Networks on **July 13–18, 2018**, for any questions email orga@ournetworks.ca!
+This repository has organizing materials for State of Our Networks on **July 13–18, 2018**, for any questions email orga@ournetworks.ca!
 
  Looking to submit a session to Our Networks 📡? [Submissions](https://github.com/ournetworks/2018-submissions/issues) have closed for 2018, we thank everyone for their interest! Our [program](https://ournetworks.ca/conference/program/) is published and we hope you join us! 🗓
  
